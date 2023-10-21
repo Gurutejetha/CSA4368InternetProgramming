@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fashion Wear Shop</title>
+</head>
+<body bgcolor="orange">
+    <h1>Welcome to Fashion Wear</h1>
+
+    <!-- Display Categories -->
+    <h2>Categories</h2>
+    <ul>
+        <li><a href="file:///C:/Users/gurut/Desktop/mens%20fashion.html">Men's Fashion</a></li>
+        <li><a href="file:///C:/Users/gurut/Desktop/women's%20fashion.html">Women's Fashion</a></li>
+        <li><a href="file:///C:/Users/gurut/Desktop/accessories.html">Accessories</a></li>
+    </ul>
+
+    <!-- Display Products -->
+    <h2>Featured Products</h2>
+    <div class="product">
+        <img src="C:\Users\gurut\Desktop\fashion.jpg" width=1200px height=500px alt="Product 1">
+        
+</body>
+</html>
